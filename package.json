@@ -1,0 +1,30 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "curso de practica con ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dannymx29/ECMAScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "historia",
+    "tiempo",
+    "evolucion"
+  ],
+  "author": "DannyMx29 <bran.dan.her.gar@hotmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dannymx29/ECMAScript/issues"
+  },
+  "homepage": "https://github.com/Dannymx29/ECMAScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
